@@ -1,0 +1,6 @@
+{
+  "name": "Karkax",
+  "description": "Encrypted multi-computer control, LAN mDNS discovery, QUIC TLS pairing, and 5-language RTL/LTR desktop KVM workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
